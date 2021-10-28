@@ -1,0 +1,27 @@
+title:              "thinking-zip"
+tagline:            "레퍼런스 모음집"
+email:              "jyp9403@gmail.com"
+description:        "필요할 때 꺼내 먹는 레퍼런스 모음집"
+author:             "짤랑"
+baseurl:            "/"
+url:                "https://thinking-zip.com/"
+locale:             "ko_KR"
+thumbnail:          "/img/thumb.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-paginate
+
+# 블로그 disqus shortname
+disqus:
+  shortname: thinking-zip

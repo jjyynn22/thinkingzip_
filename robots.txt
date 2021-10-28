@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thinking-zip.com/sitemap.xml
+#DaumWebMasterTool:97a2adad1670860531a5ea95c9f953fd702870dc5e6143877db33e7107d96f41:yW+jE+HZqfx5FHikzuVRfw==
