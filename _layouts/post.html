@@ -50,4 +50,14 @@ layout: default
       </div>
     </div>
   </article>
+
+
+  <script>
+    dataLayer.push({
+      'event':'view_item',
+      'posttitle' : '{{ page.title}}'
+  });
+
+  </script>
+
 {% include disqus.html %}
