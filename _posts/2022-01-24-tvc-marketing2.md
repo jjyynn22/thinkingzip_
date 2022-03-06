@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /tvcf-marketing-1st/
+permalink: /tvcf-marketing-2nd/
 title: 'TVC 마케팅 1편 - TVC 언제 시작해야 할까?'
 date: 2022-03-06 12:00:00 +09:00
 feature: '/img/posts/11/thmb.jpg'
