@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /tvcf-marketing-2nd/
-title: 'TVC 마케팅 1편 - TVC 언제 시작해야 할까?'
+title: 'TVC 마케팅 2편 - TVC 유튜브 캠페인 회고'
 date: 2022-03-06 12:00:00 +09:00
-feature: '/img/posts/11/thmb.jpg'
+feature: '/img/posts/12/thmb.jpg'
 categories:
   - category-1
 tags:
